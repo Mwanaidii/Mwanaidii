@@ -1,14 +1,16 @@
 ## Hi there 👋 my name Mwanaidi
 
-**The Short Version 😁👌** 
+__**The Short Version 😁👌** __
 I'm a Data Analyst with a finance backround. I have a Bachelor's degree in Financial Engineering and certifications in Data Analytics, Data Science, and Data Visualization.  
 
 I thrive on connecting with like-minded individuals across diverse domains, sharing my skills, experiences, and personal journey. Beyond the numbers, I’m passionate about storytelling—whether it’s about data, career growth, or life in general.  
 
 🏢 Find me on LinkedIn ➡︎ @https://www.linkedin.com/in/mwanaidi-kitawa-madawa/
 
-**The Long Version 🥱**
-Brief Overview of Who I am. 😎
+__**The Long Version 🥱**__
+
+__Brief Overview of Who I am. 😎__
+
 **📝 About Me:**
 
 •	**Data Analysis & Project Management Expert** adept at driving business success through innovative solutions and strategic project management. Skilled in uncovering insights, optimizing operations, and enhancing customer experiences to fuel growth and efficiency.
