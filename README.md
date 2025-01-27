@@ -1,6 +1,6 @@
 ## Hi there 👋 my name Mwanaidi
 
-__**The Short Version 😁👌** __
+<ins>**The Short Version 😁👌** <ins>
 I'm a Data Analyst with a finance backround. I have a Bachelor's degree in Financial Engineering and certifications in Data Analytics, Data Science, and Data Visualization.  
 
 I thrive on connecting with like-minded individuals across diverse domains, sharing my skills, experiences, and personal journey. Beyond the numbers, I’m passionate about storytelling—whether it’s about data, career growth, or life in general.  
