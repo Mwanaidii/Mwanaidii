@@ -9,7 +9,7 @@ I thrive on connecting with like-minded individuals across diverse domains, shar
 
 __**The Long Version 🥱**__
 
-__Brief Overview of Who I am. 😎__
+__Brief Overview of Who I am 😎__
 
 **📝 About Me:**
 
