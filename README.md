@@ -30,17 +30,6 @@ I thrive on connecting with like-minded individuals across diverse domains, shar
 
 •	Staying updated on the latest trends in data science and cloud engineering 📈🔒: Ensuring relevance and innovation in all projects.
 
-
-🛠️ Technical Skills:
-
-•	**💾 SQL:** Expertly querying databases for data extraction and manipulation.
-
-•	**🤖 Machine Learning:** Exploring Scikit-learn, TensorFlow, and PyTorch for predictive modeling.
-
-•	**📊 Data Visualization:** Skilled in creating insightful visualizations using Matplotlib, Seaborn, Power BI and Excel.
-
-•	**🐍 Python:** Leveraging Python libraries to write efficient, clean, and scalable code for data analysis and problem-solving.
-
 👯 I’m seeking opportunities to collaborate on real-world projects across various fields, leveraging data science to solve complex problems and drive impactful solutions.Feel free to reach out for collaboration, questions or just to connect!
 
 Thanks for visiting my profile! 😊
